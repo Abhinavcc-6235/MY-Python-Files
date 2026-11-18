@@ -1,0 +1,5 @@
+print("Hello world")
+print("this is my first program")
+print("my name is abhinav")
+print("i am from wayanad")
+print("iam a student of data science")
